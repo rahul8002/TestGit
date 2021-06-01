@@ -1,1 +1,4 @@
 this id my first text file.
+this the sentence 1
+this is sentence 2
+this id sentence 3
